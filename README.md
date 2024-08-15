@@ -45,7 +45,6 @@ I am frontend developer from Ukraine :ukraine:
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg#L1" title="js" width="40"/>
 </div>
 
----
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bogdankalgan&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
