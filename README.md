@@ -1,5 +1,6 @@
 <div id="header", align="center">
-  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif", width="100%">
+  Hey there
+  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="30">
 </div>
 
 <div align="center">
@@ -12,4 +13,9 @@
   <a href="https://t.me/bogdan_kalgan">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+</div>
+
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600" height="300"/>
 </div>
